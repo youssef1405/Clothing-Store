@@ -11,7 +11,7 @@ export const addItem = (itemToAdd) => {
 export const changeItemQuantity = (name, newQuantity) => {
   return {
     type: 'cart/changeItemQuantity',
-    payload: { name, newQuantity },
+    payload: { productName: name, newQuantity },
   };
 };
 
