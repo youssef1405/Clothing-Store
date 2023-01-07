@@ -5,7 +5,7 @@ import { inventoryData } from '../../data.js';
 export const loadData = (data) => {
   return {
     type: 'inventory/loadData',
-    payload: data,
+    payload: inventoryData,
   };
 };
 
