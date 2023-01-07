@@ -17,6 +17,7 @@ This application has three slices of state:
 - CSS3
 
 ## Demo
+![Alt Text](https://static-assets.codecademy.com/Courses/Learn-Redux/codecademy-store/shopping-cart-demo.gif)
 
 ## How to Use
 
