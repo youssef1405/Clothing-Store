@@ -1,4 +1,4 @@
-import { inventoryData } from '../../../data';
+import { inventoryData } from '../../data.js';
 
 // Action Creators
 
